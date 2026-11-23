@@ -1,0 +1,12 @@
+{
+  "prompt": "pixel art icon of book",
+  "seed": 123,
+  "sampler": "ddim",
+  "steps": 50,
+  "guidance": 4.0,
+  "ddim_eta": 0.0,
+  "model_repo": "Tobyz11/toy-pixelart-ddpm",
+  "model_revision": "main",
+  "resolved_model_revision": "25b88ec8467bfe537003db43ca8d37129aa4cf08",
+  "device": "cpu"
+}

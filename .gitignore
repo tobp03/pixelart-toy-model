@@ -1,0 +1,33 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.secrets/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# Downloaded data, training artifacts, and model weights
+data/
+datasets/
+checkpoints/
+outputs/
+runs/
+.cache/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.zip
+
+# Operating system files
+.DS_Store
+Thumbs.db
