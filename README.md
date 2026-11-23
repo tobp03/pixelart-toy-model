@@ -83,4 +83,5 @@ This is an educational **toy model**, not a production sprite generator:
   - **Dataset License:** Published under the **MIT License** on Hugging Face.
   - **Synthetic Origin Note:** The dataset consists of AI-generated sprites created via a **Krea 2 Pixel-art LoRA** pipeline (~121k sprites) and sprite-sheet extraction (~51k sprites). If you plan to use generated outputs commercially, review both the dataset card and any applicable upstream synthetic-data terms.
 - **Pretrained Text Encoder:** [`openai/clip-vit-large-patch14`](https://huggingface.co/openai/clip-vit-large-patch14) (revision `32bd64288804d66eefd0ccbe215aa642df71cc41`) — **MIT License**.
-- **Code & Released Weights:** See [`Tobyz11/toy-pixelart-ddpm`](https://huggingface.co/Tobyz11/toy-pixelart-ddpm) for the published checkpoint and model card. *(Add a `LICENSE` file to this repository before public release.)*
+- **Code & Documentation:** Licensed under the [MIT License](LICENSE), copyright (c) 2026 Toby Purbojo. Third-party materials retain their respective licenses.
+- **Released Weights:** See [`Tobyz11/toy-pixelart-ddpm`](https://huggingface.co/Tobyz11/toy-pixelart-ddpm) for the published checkpoint, model card, and applicable license.
